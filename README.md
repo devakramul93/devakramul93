@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devakramul93" alt="devakramul93" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
+<p align="left"> <a href="https://twitter.com/x.com/devakramul93" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/devakramul93?logo=twitter&style=for-the-badge" alt="x.com/devakramul93" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
