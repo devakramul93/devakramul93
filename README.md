@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
-<p align="left"> <a href="https://twitter.com/https://x.com/home" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/home?logo=twitter&style=for-the-badge" alt="https://x.com/home" /></a> </p>
+
 - 🌱 I’m currently learning **PHP, JS**
 
 - 🤝 I’m looking for help with **Helping Businesses and Creators Build Stunning, Functional Websites.To continuously enhance my web development skills, embrace emerging technologies, and build innovative digital solutions that deliver exceptional user experiences.**
